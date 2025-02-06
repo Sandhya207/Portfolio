@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.section {
+    padding: 5rem 1rem;
+}
+
+.nav-link {
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #3B82F6;
+}
+
+.process-card {
+    transition: all 0.3s ease;
+}
+
+.process-card:hover {
+    transform: translateY(-5px);
+}
+
+.tool-item {
+    transition: all 0.3s ease;
+}
+
+.tool-item:hover {
+    transform: scale(1.05);
+}
+
+.project-card {
+    transition: all 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
